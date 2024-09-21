@@ -16,6 +16,7 @@
 - [Cromado al fuego](#cromado-al-fuego)
 - [Troubleshooting](#troubleshooting-1)
 - [Efecto Cristal](#efecto-cristal)
+- [Tools:](#tools)
 - [Contactos proveedores de materiales químicos Chile](#contactos-proveedores-de-materiales-químicos-chile)
   - [Curso](#curso)
 
@@ -72,6 +73,11 @@ Materiales
 * Agua (H₂O)
 * Jabón liquido quita grasa
 
+<br>
+
+# Tools:
+* Soplete a gas
+* Paletas de madera (papelerias)
 
 <br>
 
@@ -116,6 +122,7 @@ Persona de contacto: Claudio.
 
 
 <br>
+
 
 
 
