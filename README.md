@@ -26,7 +26,7 @@
 * Soplete Flameador a gas
 * Paletas de madera (papelerias)
 * Balanza De Cocina Digital
-* Esmalte transparente (profesional / Spray)
+* Esmalte transparente (profesional o en Spray)
 
 <br>
 
@@ -53,7 +53,7 @@ Materiales:
 > [!TIP]
 > Se puede usar la pintura ```Candy Automotriz```[^1] para cambiar el color del cromado
 
-[^1]: La pintura Candy es un tinte intenso y traslúcido con un acabado extraordinario, muy luminoso e intenso que suele utilizarse principalmente para personalizar los coches, las motos o los cascos de estas, aunque hay quien la usa para pintar otras piezas.
+
 
 <br>
 
@@ -79,8 +79,6 @@ Herramientas:
 
 > [!TIP]
 > Se puede usar la pintura ```Candy Automotriz```[^1] para cambiar el color del cromado
-
-[^1]: La pintura Candy es un tinte intenso y traslúcido con un acabado extraordinario, muy luminoso e intenso que suele utilizarse principalmente para personalizar los coches, las motos o los cascos de estas, aunque hay quien la usa para pintar otras piezas.
 
 <br>
 
@@ -154,4 +152,6 @@ carjavi@hotmail.com <br>
 <p align="center">
     <a href="https://instintodigital.net/" target="_blank"><img src="./img/developer.png" height="100" alt="www.instintodigital.net"></a>
 </p>
+
+[^1]: La pintura Candy es un tinte intenso y traslúcido con un acabado extraordinario, muy luminoso e intenso que suele utilizarse principalmente para personalizar los coches, las motos o los cascos de estas, aunque hay quien la usa para pintar otras piezas. Se necesita un compresor con unos PSI especifico para aplicar esta pintura ya que es muy gruesa
 
