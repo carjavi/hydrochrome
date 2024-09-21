@@ -18,7 +18,6 @@
 - [Efecto Cristal](#efecto-cristal)
 - [Contactos proveedores de materiales químicos Chile](#contactos-proveedores-de-materiales-químicos-chile)
   - [Curso](#curso)
-- [hydrochrome](#hydrochrome-1)
 
 <br>
 
@@ -96,7 +95,7 @@ fono: (+569) 4092 3586 <br>
 -------------------------
 <br>
 
-```HydroLab Chile``` +56952449624. Para pedido de las láminas de hidroimpresión mas su actaivador
+```HydroLab Chile``` +56952449624. Para pedido de las láminas de hidroimpresión mas su activador
 
 -----------------------
 
@@ -127,5 +126,4 @@ carjavi@hotmail.com <br>
 <p align="center">
     <a href="https://instintodigital.net/" target="_blank"><img src="./img/developer.png" height="100" alt="www.instintodigital.net"></a>
 </p>
-# hydrochrome
-hydrochrome
+
