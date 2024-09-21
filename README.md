@@ -8,6 +8,7 @@
 
 # Table of contents
 - [Table of contents](#table-of-contents)
+- [General Tools:](#general-tools)
 - [Hydrochrome](#hydrochrome)
     - [Activador](#activador)
     - [Componente A](#componente-a)
@@ -15,13 +16,18 @@
 - [Troubleshooting](#troubleshooting)
 - [Cromado al fuego](#cromado-al-fuego)
 - [Troubleshooting](#troubleshooting-1)
-- [Efecto Cristal](#efecto-cristal)
-- [Tools:](#tools)
+- [Efecto Cristal en objetos](#efecto-cristal-en-objetos)
 - [Contactos proveedores de materiales químicos Chile](#contactos-proveedores-de-materiales-químicos-chile)
   - [Curso](#curso)
 
 <br>
 
+# General Tools:
+* Soplete Flameador a gas
+* Paletas de madera (papelerias)
+* Balanza De Cocina Digital
+
+<br>
 
 # Hydrochrome
 Materiales:
@@ -57,6 +63,10 @@ Materiales:
 * Alcohol isopropilico (C₃H₈O)
 * Nitrato de plata (AgNO₃)
 
+Herramientas:
+* Pincel
+* Recipiente xxx
+
 <br>
 
 # Troubleshooting
@@ -67,17 +77,13 @@ Materiales:
 
 <br>
 
-# Efecto Cristal
+# Efecto Cristal en objetos
 Materiales 
 * Urea (CO(NH₂)₂) 
 * Agua (H₂O)
 * Jabón liquido quita grasa
 
 <br>
-
-# Tools:
-* Soplete a gas
-* Paletas de madera (papelerias)
 
 <br>
 
