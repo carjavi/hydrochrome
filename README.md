@@ -1,4 +1,4 @@
-<p align="center"><img src="./img/hydrochrome.png" width="400"   alt=" " /></p>
+<p align="center"><img src="./img/hydrochrome.png" width="600"   alt=" " /></p>
 <h1 align="center">Hydrochrome</h1> 
 <h4 align="right">Sep 24</h4>
 
@@ -87,7 +87,7 @@ Herramientas:
 > Se puede usar pintura ```Candy Automotriz```[^1] para cambiar el color del cromado
 
 > [!TIP]
-> Se puede usar pintura metalizadas en spray como: Dupli-Color MC200 color anodizado metal fundido, especiales para pintar en chromo y recubrimiento anodizado resistente al calor.
+> Se puede usar pintura metalizadas en spray como: Dupli-Color MC200 color anodizado metal fundido,recubrimiento anodizado resistente al calor, especiales para pintar en chromo.
 
 <p align="center"><img src="./img/spray-cromo.png" width="400"   alt=" " /></p>
 <p align="center"><img src="./img/spray-metalizado.png" width="200"   alt=" " /></p>
