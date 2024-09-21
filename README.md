@@ -16,6 +16,7 @@
 - [Troubleshooting](#troubleshooting)
 - [Cromado al fuego](#cromado-al-fuego)
 - [Troubleshooting](#troubleshooting-1)
+- [Tips en el Cromado](#tips-en-el-cromado)
 - [Efecto Cristal en objetos](#efecto-cristal-en-objetos)
 - [Contactos proveedores de materiales químicos Chile](#contactos-proveedores-de-materiales-químicos-chile)
   - [Curso](#curso)
@@ -50,11 +51,6 @@ Materiales:
 
 <br>
 
-> [!TIP]
-> Se puede usar la pintura ```Candy Automotriz```[^1] para cambiar el color del cromado
-
-
-
 <br>
 
 # Troubleshooting
@@ -77,16 +73,24 @@ Herramientas:
 
 <br>
 
-> [!TIP]
-> Se puede usar la pintura ```Candy Automotriz```[^1] para cambiar el color del cromado
-
-<br>
-
 # Troubleshooting
 > :warning: **Warning:**
 
 
 <br>
+
+<br>
+
+# Tips en el Cromado
+
+> [!TIP]
+> Se puede usar pintura ```Candy Automotriz```[^1] para cambiar el color del cromado
+
+> [!TIP]
+> Se puede usar pintura metalizadas en spray como: Dupli-Color MC200 color anodizado metal fundido, especiales para pintar en chromo y recubrimiento anodizado resistente al calor.
+
+<p align="center"><img src="./img/spray-cromo.png" width="400"   alt=" " /></p>
+<p align="center"><img src="./img/spray-metalizado.png" width="200"   alt=" " /></p>
 
 <br>
 
