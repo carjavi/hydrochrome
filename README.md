@@ -27,7 +27,8 @@
 * Soplete Flameador a gas
 * Paletas de madera (papelerias)
 * Balanza De Cocina Digital
-* Esmalte transparente (profesional o en Spray)
+* Laca acrilica transparente (profesional o en Spray) pata hacer mas resistente el cromado
+* Laca acrílica automotriz (fondo)
 
 <br>
 
@@ -84,10 +85,12 @@ Herramientas:
 # Tips en el Cromado
 
 > [!TIP]
-> Se puede usar pintura ```Candy Automotriz```[^1] para cambiar el color del cromado
+> Se puede usar pintura de efecto ```Candy Automotriz```[^1] para cambiar el color del cromado
 
 > [!TIP]
-> Se puede usar pintura metalizadas en spray como: Dupli-Color MC200 color anodizado metal fundido,recubrimiento anodizado resistente al calor, especiales para pintar en chromo.
+> Se puede usar pintura metalizadas en spray como: 
+> Dupli-Color MC200 color anodizado metal fundido,recubrimiento anodizado resistente al calor, especiales para pintar en chromo.
+> Barniz Candy spray 2C - STARDUST BIKE
 
 <p align="center"><img src="./img/spray-cromo.png" width="400"   alt=" " /></p>
 <p align="center"><img src="./img/spray-metalizado.png" width="200"   alt=" " /></p>
@@ -106,13 +109,36 @@ Materiales
 
 # Contactos proveedores de materiales químicos Chile
 
-Químicas industriales  +56961597549 /+56226352641
+REACHEM<br>
+https://reachem.cl/<br>
 
-<br>
+San Miguel.Gran Avenida #5266, San Miguel.<br>
+Fono: +56225230770 opción 1<br>
+Whatsapp: +56974321395<br>
+
+Providencia<br>
+Nueva Providencia #1414.<br>
+Fono: +56229468504<br>
+Whatsapp: +56963249672<br>
+
+E-commerce (Venta online)<br>
+Fono: +56443699280 opción 2<br>
+Whatsapp: +56963264653<br>
+
+-----------------------------
+
+Químicas industriales  +56961597549 /+56226352641
 
 --------------------------
 
-```Alcohol polivinílico o alcohol PVA (C₂H₄O)``` (+569) 6421 0291
+```Alcohol polivinílico o alcohol PVA (C₂H₄O)``` <br>
+Cooltiva<br>
+https://cooltiva.cl/<br>
+Seminario 601 Metro Sta Isabel Providencia.<br>
+whatsapp +56 9 8425 4727<br>
+administracion@cooltiva.cl<br>
+
+(+569) 6421 0291 ...
 
 Alcohol Polivinilico 20KG - Productos Químicos $169.900 + IVA <br>
 https://productosquimicos.cl/producto/alcohol-polivinilico-20kg/?srsltid=AfmBOoqPt9gbKuUJ11KxH1kOjLuJSJCjdLpq81R_RPqvutKfhbnyJnxR
